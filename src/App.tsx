@@ -89,6 +89,9 @@ function App() {
 			{id: v1(), title: 'Book', isDone: true},
 			{id: v1(), title: 'Milk', isDone: true}]
 	})
+id: v1(), title: 'Book', isDone: true},
+			{id: v1(), title: 'Milk', isDone: true}]
+	})
 
 	function addTodolist(title: string) {
 		let todolist: TodolistType = {
